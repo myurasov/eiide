@@ -1,0 +1,15 @@
+{
+  "parser": "babel-eslint",
+  "rules": {
+    "semi": [2, "always"],
+    "quotes": [2, "single"]
+  },
+  "ecmaFeatures": {
+    "modules": true,
+    "classes": true,
+    "destructuring": true,
+    "arrowFunctions": true,
+    "defaultParams": true,
+    "blockBindings": true
+  }
+}
