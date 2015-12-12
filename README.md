@@ -1,4 +1,4 @@
-# EI IDE
+# Electric Imp IDE based on Build API 
  
 ## Development Requirements
 
